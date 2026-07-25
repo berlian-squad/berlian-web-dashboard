@@ -8,7 +8,7 @@
       <p class="text-xs text-gray-400 mt-1">Batik Al Huda</p>
     </div>
 
-    <!-- Dynamic Menus -->
+    <!-- Dynamic Menus later-->
     <nav class="flex-1 px-4 space-y-1">
       <!-- Looping menu dari props -->
       <a
