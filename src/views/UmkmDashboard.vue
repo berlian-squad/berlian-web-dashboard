@@ -195,7 +195,7 @@
           <div class="flex justify-end gap-3">
             <div class="flex flex-col gap-1 items-end">
               <div
-                class="bg-[#161b22] text-white p-4 rounded-2xl rounded-tr-sm max-w-[420px] text-sm leading-relaxed shadow-md shadow-gray-200/50"
+                class="bg-[#161b22] text-white p-4 rounded-2xl rounded-tr-sm max-w-105 text-sm leading-relaxed shadow-md shadow-gray-200/50"
               >
                 jadi 450 ribu rupiah aja mas, nanti dapat 4 kain ya saya bonus 1
                 kain
